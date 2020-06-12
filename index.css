@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.text-area{
+    width: 100%;
+    height: 70px;
+    background: orchid;
+}
+
+.text-box{
+    background: none;
+    border:none;
+    color:white;
+    float: left;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.desc-area{
+    display: flex;
+    justify-content: center;
+    background-color: turquoise;
+    margin: 0 auto;
+    height: 300px;
+    width: 600px;
+}
+
+.count-area{
+    color:white;
+    background: purple;
+    height: 40px;
+    width: 50px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
